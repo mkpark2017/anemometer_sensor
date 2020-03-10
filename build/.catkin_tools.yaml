@@ -1,0 +1,6 @@
+devel_space: /home/pi/catkin_ws/weather_sensor/devel
+install: false
+install_space: /home/pi/catkin_ws/weather_sensor/install
+profile: default
+source_space: /home/pi/catkin_ws/weather_sensor/src
+workspace: /home/pi/catkin_ws/weather_sensor

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target anemometer_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/anemometer_node.dir/src/anemometer_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/pi/catkin_ws/weather_sensor/devel/.private/anemometer_sensor/lib/anemometer_sensor/anemometer_node[0m
+[100%] Built target anemometer_node

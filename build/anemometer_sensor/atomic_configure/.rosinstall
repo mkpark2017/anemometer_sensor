@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pi/catkin_ws/weather_sensor/devel/.private/anemometer_sensor/setup.sh

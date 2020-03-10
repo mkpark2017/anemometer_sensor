@@ -1,0 +1,4 @@
+Linked: (/home/pi/catkin_ws/weather_sensor/devel/.private/anemometer_sensor/share/anemometer_sensor/cmake/anemometer_sensorConfig-version.cmake, /home/pi/catkin_ws/weather_sensor/devel/share/anemometer_sensor/cmake/anemometer_sensorConfig-version.cmake)
+Linked: (/home/pi/catkin_ws/weather_sensor/devel/.private/anemometer_sensor/share/anemometer_sensor/cmake/anemometer_sensorConfig.cmake, /home/pi/catkin_ws/weather_sensor/devel/share/anemometer_sensor/cmake/anemometer_sensorConfig.cmake)
+Linked: (/home/pi/catkin_ws/weather_sensor/devel/.private/anemometer_sensor/lib/pkgconfig/anemometer_sensor.pc, /home/pi/catkin_ws/weather_sensor/devel/lib/pkgconfig/anemometer_sensor.pc)
+Linked: (/home/pi/catkin_ws/weather_sensor/devel/.private/anemometer_sensor/lib/anemometer_sensor/anemometer_node, /home/pi/catkin_ws/weather_sensor/devel/lib/anemometer_sensor/anemometer_node)

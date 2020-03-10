@@ -1,0 +1,12 @@
+Symlinking /home/pi/catkin_ws/weather_sensor/devel/./local_setup.zsh
+Symlinking /home/pi/catkin_ws/weather_sensor/devel/./setup.bash
+Symlinking /home/pi/catkin_ws/weather_sensor/devel/./local_setup.sh
+Symlinking /home/pi/catkin_ws/weather_sensor/devel/./_setup_util.py
+Symlinking /home/pi/catkin_ws/weather_sensor/devel/./local_setup.bash
+Symlinking /home/pi/catkin_ws/weather_sensor/devel/./setup.zsh
+Symlinking /home/pi/catkin_ws/weather_sensor/devel/./env.sh
+Symlinking /home/pi/catkin_ws/weather_sensor/devel/./setup.sh
+Symlinking /home/pi/catkin_ws/weather_sensor/devel/./cmake.lock
+Symlinking /home/pi/catkin_ws/weather_sensor/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/pi/catkin_ws/weather_sensor/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/pi/catkin_ws/weather_sensor/devel/lib/pkgconfig/catkin_tools_prebuild.pc
